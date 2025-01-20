@@ -1,3 +1,4 @@
 # Hands-On-Lab-with-GitHub
-322 hws\n
-Hello! I am Richard Shen!
+322 hws
+
+ Hello! I am Richard Shen!
